@@ -1,0 +1,113 @@
+2021-03-04 11:25:36 INFO  RegisterDbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 11:25:36 WARN  RegisterDbConnection:30 - Database Password->root
+2021-03-04 11:25:36 FATAL RegisterDbConnection:31 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 11:25:36 ERROR RegisterDbConnection:32 - Database UserName->root
+2021-03-04 11:29:02 INFO  RegisterDbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 11:29:02 DEBUG RegisterDbConnection:29 - Database UserName->root
+2021-03-04 11:29:02 WARN  RegisterDbConnection:30 - Database Password->root
+2021-03-04 11:29:02 FATAL RegisterDbConnection:31 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 11:29:02 ERROR RegisterDbConnection:32 - Database UserName->root
+2021-03-04 16:00:10 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 16:00:10 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 16:00:10 INFO  DbConnection:30 - Database Password->root
+2021-03-04 16:00:44 INFO  Login:34 - Email->>>vandyyy17@gmail.com
+2021-03-04 16:00:44 INFO  Login:35 - Password->>Qwerty1@#
+2021-03-04 16:00:44 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 16:00:44 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 16:00:44 INFO  DbConnection:30 - Database Password->root
+2021-03-04 16:14:46 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 16:14:46 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 16:14:46 INFO  DbConnection:30 - Database Password->root
+2021-03-04 16:15:50 INFO  Login:34 - Email->>>demo@123.com
+2021-03-04 16:15:50 INFO  Login:35 - Password->>Demo@123
+2021-03-04 16:15:50 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 16:15:50 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 16:15:50 INFO  DbConnection:30 - Database Password->root
+2021-03-04 16:15:50 DEBUG LoginDaoImpl:44 - com.mysql.cj.jdbc.result.ResultSetImpl@4c3e816f
+2021-03-04 16:15:50 INFO  LoginDaoImpl:45 - Matching password
+2021-03-04 18:32:45 INFO  Login:34 - Email->>>demo@123.com
+2021-03-04 18:32:45 INFO  Login:35 - Password->>hsbheeeew@12W
+2021-03-04 18:32:45 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 18:32:45 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 18:32:45 INFO  DbConnection:30 - Database Password->root
+2021-03-04 18:32:46 DEBUG LoginDaoImpl:44 - com.mysql.cj.jdbc.result.ResultSetImpl@15599670
+2021-03-04 18:32:46 INFO  LoginDaoImpl:45 - Matching password
+2021-03-04 18:32:46 INFO  LoginDaoImpl:49 - password matched
+2021-03-04 18:37:54 INFO  Login:29 - Email->>>vandyyy17@gmail.com
+2021-03-04 18:37:54 INFO  Login:30 - Password->>Gh@12123
+2021-03-04 18:37:55 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 18:37:55 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 18:37:55 INFO  DbConnection:30 - Database Password->root
+2021-03-04 18:37:57 DEBUG LoginDaoImpl:44 - com.mysql.cj.jdbc.result.ResultSetImpl@77a4fa24
+2021-03-04 18:37:57 INFO  LoginDaoImpl:45 - Matching password
+2021-03-04 20:15:34 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 20:15:34 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 20:15:34 INFO  DbConnection:30 - Database Password->root
+2021-03-04 20:17:46 INFO  Login:29 - Email->>>test123@jnk
+2021-03-04 20:17:46 INFO  Login:30 - Password->>tesT@1234
+2021-03-04 20:17:46 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 20:17:46 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 20:17:46 INFO  DbConnection:30 - Database Password->root
+2021-03-04 20:17:46 DEBUG LoginDaoImpl:44 - com.mysql.cj.jdbc.result.ResultSetImpl@50d81c3c
+2021-03-04 20:17:46 INFO  LoginDaoImpl:45 - Matching password
+2021-03-04 20:17:57 INFO  Login:29 - Email->>>test123@jnk
+2021-03-04 20:17:57 INFO  Login:30 - Password->>tesT@123
+2021-03-04 20:17:57 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 20:17:57 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 20:17:57 INFO  DbConnection:30 - Database Password->root
+2021-03-04 20:17:58 DEBUG LoginDaoImpl:44 - com.mysql.cj.jdbc.result.ResultSetImpl@4ca81237
+2021-03-04 20:17:58 INFO  LoginDaoImpl:45 - Matching password
+2021-03-04 21:35:08 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 21:35:08 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 21:35:08 INFO  DbConnection:30 - Database Password->root
+2021-03-04 21:48:05 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 21:48:05 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 21:48:05 INFO  DbConnection:30 - Database Password->root
+2021-03-04 22:56:10 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 22:56:10 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 22:56:10 INFO  DbConnection:30 - Database Password->root
+2021-03-04 23:20:35 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 23:20:35 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 23:20:35 INFO  DbConnection:30 - Database Password->root
+2021-03-04 23:21:19 INFO  Login:29 - Email->>>demo@123.com
+2021-03-04 23:21:19 INFO  Login:30 - Password->>Vandana@123
+2021-03-04 23:21:19 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 23:21:19 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 23:21:19 INFO  DbConnection:30 - Database Password->root
+2021-03-04 23:21:19 DEBUG LoginDaoImpl:44 - com.mysql.cj.jdbc.result.ResultSetImpl@788cfedd
+2021-03-04 23:21:19 INFO  LoginDaoImpl:45 - Matching password
+2021-03-04 23:24:06 INFO  Login:29 - Email->>>demo@123.com
+2021-03-04 23:24:06 INFO  Login:30 - Password->>Vandana@123
+2021-03-04 23:24:06 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 23:24:06 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 23:24:06 INFO  DbConnection:30 - Database Password->root
+2021-03-04 23:24:08 DEBUG LoginDaoImpl:44 - com.mysql.cj.jdbc.result.ResultSetImpl@909c8ca
+2021-03-04 23:24:08 INFO  LoginDaoImpl:45 - Matching password
+2021-03-04 23:24:36 INFO  Login:29 - Email->>>demo@123.com
+2021-03-04 23:24:36 INFO  Login:30 - Password->>wdqwd@s1Q
+2021-03-04 23:24:36 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 23:24:36 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 23:24:36 INFO  DbConnection:30 - Database Password->root
+2021-03-04 23:24:37 DEBUG LoginDaoImpl:44 - com.mysql.cj.jdbc.result.ResultSetImpl@138068d5
+2021-03-04 23:24:37 INFO  LoginDaoImpl:45 - Matching password
+2021-03-04 23:24:56 INFO  Login:29 - Email->>>vandyyy17@gmail.com
+2021-03-04 23:24:56 INFO  Login:30 - Password->>LOGI@udhu2
+2021-03-04 23:24:56 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 23:24:56 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 23:24:56 INFO  DbConnection:30 - Database Password->root
+2021-03-04 23:26:25 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/userdb?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 23:26:25 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 23:26:25 INFO  DbConnection:30 - Database Password->root
+2021-03-04 23:44:52 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/registration?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 23:44:52 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 23:44:52 INFO  DbConnection:30 - Database Password->root
+2021-03-04 23:52:04 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/registration?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 23:52:04 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 23:52:04 INFO  DbConnection:30 - Database Password->root
+2021-03-04 23:53:06 INFO  Login:29 - Email->>>test123@jnk.com
+2021-03-04 23:53:06 INFO  Login:30 - Password->>User@regist1
+2021-03-04 23:53:06 INFO  DbConnection:28 - Database URL->jdbc:mysql://localhost:3306/registration?allowPublicKeyRetrieval=true&useSSL=false
+2021-03-04 23:53:06 INFO  DbConnection:29 - Database UserName->root
+2021-03-04 23:53:06 INFO  DbConnection:30 - Database Password->root
+2021-03-04 23:53:07 DEBUG LoginDaoImpl:44 - com.mysql.cj.jdbc.result.ResultSetImpl@15fa1ab7
+2021-03-04 23:53:07 INFO  LoginDaoImpl:45 - Matching password
